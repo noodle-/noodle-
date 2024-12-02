@@ -1,8 +1,6 @@
-noodle-
-
-NO = Norge
-NDL = Nederland
-DL = Deutschland
+NO = Norge\
+NDL = Nederland\
+DL = Deutschland\
 E = Eeeeeeh :)
 
 <!--
