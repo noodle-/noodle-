@@ -1,4 +1,9 @@
-## Hi there 👋
+noodle-
+
+NO = Norge
+NDL = Nederland
+DL = Deutschland
+E = Eeeeeeh :)
 
 <!--
 **noodle-/noodle-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
